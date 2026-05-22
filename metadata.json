@@ -1,0 +1,6 @@
+{
+  "name": "Spam Email Classifier",
+  "description": "Interactive Naive Bayes spam email classifier. Train customized models, edit datasets, inspect mathematical breakdowns, and analyze classification statistics in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
